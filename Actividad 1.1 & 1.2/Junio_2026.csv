@@ -1,0 +1,45 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Ignacio ,2026-06-01,Francisco Cacho ,Activo ,,0.0,0.0,0.0,Mario 
+Ignacio ,2026-06-01,Guillermo Hernandez ,Activo ,,1.0,0.0,0.0,Pedro Antonio 
+Ignacio ,2026-06-02,Roberto Quintana ,Activo ,,0.0,0.0,0.0,Nayeli 
+Ignacio ,2026-06-03,Karla Marquez ,Activo ,,0.0,0.0,1.0,Pedro
+Ana ,2026-06-01,Javier Juarez Solano,Activo,,1.0,0.0,0.0,Vanny
+Ana,2026-06-03,Ommar Herrera,Activo,,1.0,0.0,0.0,Carlos mejia
+Ana,2026-06-04,Andres Cuevas,Activo,,0.0,0.0,0.0,Carlos Mejia 
+Ana,2026-06-05,Fernanda Lopez,Activo,,1.0,1.0,0.0,Ignacio 
+Ana,2026-06-02,Jose,Activo,,0.0,0.0,0.0,Llamada
+Ignacio,2026-06-06,Gregorio Tlapanco ,Activo ,,0.0,0.0,0.0,Mario Varela
+Ignacio ,2026-06-12,Ivan Bravo ,Activo ,,1.0,1.0,1.0,Mario Varela 
+Ignacio ,2026-06-12,Angelica Briones ,Activo ,,0.0,0.0,0.0,Julio Cesar 
+Ignacio ,2026-06-12,Juan Alberto Vargas ,Activo ,,1.0,0.0,0.0,Mario Varela 
+Ana,2026-06-17,Moises ,Activo,,1.0,0.0,0.0,Aurelio
+Ana,2026-06-10,LUIS CASTILLO,Activo,,0.0,0.0,0.0,Fer
+Ana,2026-06-12,Eder Hernandez,Activo,,0.0,0.0,0.0,Fatima
+Ana,2026-06-13,Alberto Madrigal,Activo,,0.0,0.0,0.0,Pedro Antonio
+Ana,2026-06-06,Jesus Adelfo Hernandez Montiel,Activo,,0.0,0.0,0.0,Julio Cesar
+Ana,2026-06-16,Eduardo Delón Páez,Activo,,1.0,0.0,0.0,Nayeli
+Ana,2026-06-10,LUIS FERNANDO SANCHEZ QUIROZ,Activo,,1.0,0.0,0.0,Mario
+Ana,2026-06-05,Ommar Herrera,Activo,,1.0,0.0,0.0,Carlos Mejia
+Ana,2026-06-06,Jaime Davila Baez,Activo,,1.0,0.0,0.0,Pedro
+Ana,2026-06-19,Jan cx,Activo,,0.0,0.0,0.0,Carlos Mejia 
+Ana,2026-06-16,BERNARDO ALCARAZ MORALES,Activo,,1.0,0.0,0.0,Nayeli
+Ana,2026-06-07,Juan Carlos García Hernández,Activo,,1.0,0.0,0.0,Carlos Mejia
+Ana,2026-06-15,Benjamin Mendez,Activo ,,1.0,0.0,0.0,Vanny
+Ana,2026-06-06,Jesus F,Activo,,0.0,0.0,0.0,Fer F
+Ana,2026-06-28,Sergio Flores,Activo,,0.0,0.0,0.0,Fatima
+Ana,2026-06-28,Sofia polo,Activo,,0.0,0.0,0.0,Vanny
+Ignacio ,2026-06-29,Jorge Canche ,Activo ,,0.0,0.0,0.0,Ignacio 
+Igancio ,2026-06-28,Octavio Perez ,Activo ,,0.0,1.0,0.0,Pedro Antonio 
+Ignacio ,2026-06-28,Adelina Khalikova ,Activo ,,1.0,0.0,0.0,Pedro Antonio 
+Ignacio ,2026-06-27,Roberto Luna Rosas ,Activo ,,1.0,0.0,1.0,Pedro Antonio 
+Ignacio ,2026-06-19,Miguel Martinez ,Activo ,,1.0,0.0,0.0,Nayeli 
+Ignacio ,2026-06-20,Humberto Valencia ,Activo ,,0.0,0.0,0.0,Aurelio 
+Ignacio ,2026-06-19,Propescto Orizaba ,Activo ,,0.0,0.0,0.0,Nayeli 
+Ana ,2026-06-24,Paul Kehrli,Activo,,0.0,0.0,0.0,Pedro Antonio
+Ana ,2026-06-15,Benjamin Mendez,Activo ,,0.0,0.0,0.0,Vanny
+Ana,2026-06-06,Reynaldo Cobos ,Activo,,1.0,0.0,0.0,Ulises
+Ana,2026-06-20,Arturo Moreno ,Activo,,0.0,0.0,0.0,Nayeli
+Ana,2026-06-17,Moises Hdez,Activo,,0.0,0.0,0.0,Aurelio
+Ignacio ,2026-06-04,Arquimedes Rugerio ,Activo ,,1.0,0.0,0.0,Nayeli 
+Ignacio ,2026-06-04,Victor Manuel Diaz Ortiz ,Activo ,,1.0,0.0,0.0,Cesar Pestaña
+Ana,2026-06-02,Margarita Romero Castillo,Activo ,,1.0,1.0,0.0,Pedro Antonio

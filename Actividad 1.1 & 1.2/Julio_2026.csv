@@ -1,0 +1,28 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Ana,2026-07-07,Eder Chavez,Activo ,,1.0,0.0,0.0,Fatima
+Ana,2026-07-07,Alejandro VELAZQUEZ,Activo ,,1.0,1.0,0.0,Nayeli
+Ana,2026-07-11,Miguel irigoyen,Activo ,,0.0,0.0,0.0,Julio
+Ana,2026-07-08,Jose Hernandez Gonzalez,Activo ,,1.0,1.0,0.0,Pedro 
+Ignacio ,2026-07-09,Oswaldo Rueda ,Activo ,,1.0,1.0,0.0,Pedro 
+Ignacio ,2026-07-10,Arturo Mendez ,Activo ,,1.0,0.0,0.0,Mauricio 
+Ana,2026-07-08,Ruben Vargas,Acrivo,,1.0,1.0,0.0,Julio
+Ana ,2026-07-04,Edgar Herrera,Activo,,1.0,0.0,0.0,Fatima
+Igancio ,2026-07-14,luis Hernandez,Activo ,,1.0,0.0,0.0,Nayeli 
+Ignacio ,2026-07-14,Omar Garcia ,Activo ,,1.0,0.0,0.0,Nayeli 
+Ignacio ,2026-07-13,Rosaura Mendez Quechol ,Activo ,,0.0,0.0,1.0,Mauricio 
+Ana,2026-07-14,Alfonso f,Activo,,1.0,0.0,0.0,Nayeli
+Ana,2026-07-10,Lizbeth Garcia,Activo,,1.0,0.0,0.0,Julio
+Ana ,2026-07-11,Mike Mora,Activo,,0.0,1.0,0.0,Alfredo
+Ana,2026-07-14,Azucena de Jesus machorro arreola,Activo,,1.0,1.0,0.0,Nayeli
+Ana,2026-07-13,Jose F,Activo,,0.0,0.0,0.0,
+Ana,2026-07-16,Daniel Padilla,Activo,,1.0,1.0,0.0,Fernanda
+Ana,2026-07-16,MARIBEL BARRON,Activo,,1.0,0.0,0.0,Mario
+Igancio ,2026-07-17,Bernardo Ayuso ,,,0.0,0.0,0.0,Nayeli 
+Ignacio ,2026-07-16,Victor Garcai ,,,0.0,0.0,0.0,Alfredo 
+Ignacio ,2026-07-18,Johancarlo Islas ,Activo ,,0.0,0.0,0.0,Julio Cesar 
+Ana,2026-07-16,Margaret Silva Serrano,Activo,,1.0,0.0,0.0,Nayeli
+Ignacio ,2026-07-21,Carlos Balderrama ,Activo ,,1.0,1.0,1.0,Mario Varela 
+Ignacio ,2026-07-21,Andrés Netzahuatl ,Activo ,,0.0,0.0,0.0,Mauricio 
+Ana,2026-07-22,Arat Israel,Activo,80.0,1.0,1.0,0.0,Aurelio
+Ana,2026-07-22,Maira Escalante,Activo ,,1.0,1.0,0.0,Pedro Antonio
+Ignacio ,2026-07-22,Zaira Macip ,Activo ,,0.0,0.0,0.0,Aurelio 

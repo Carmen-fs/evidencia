@@ -1,0 +1,675 @@
+BDC ,Fecha,Nombre Cliente ,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado
+Saul ,,Guillermo ,Finalizado ,,1.0,0.0,0.0,Nancy
+Saul ,,Roberto ,Finalizado ,,0.0,0.0,0.0,Victor 
+Saul ,,Irving ,Finalizado ,,0.0,0.0,0.0,Alan 
+Saul ,,Oswaldo ,Venta ,,0.0,0.0,1.0,Mauricio 
+Saul ,,Rodrigo ,Finalizado ,,1.0,0.0,0.0,Mauricio 
+Saul ,,Antonio,Activo ,,1.0,1.0,0.0,Mauricio 
+Saul ,,Juan Carlos,Finalizado ,,0.0,0.0,0.0,Ricardo 
+Saul ,,Jose Alfredo ,Finalizado ,,1.0,0.0,0.0,Mauricio 
+Saul ,,Jacinto ,Finalizado ,,0.0,0.0,0.0,Nancy
+Saul ,,Felipe ,Finalizado ,,1.0,0.0,0.0,Alan 
+Saul ,,Luz Mercedes,Venta ,,1.0,1.0,1.0,Mauricio 
+Antonio,,Enrique,Finalizado ,,1.0,1.0,0.0,Alan 
+Saul ,,Esteban ,Finalizado ,,0.0,0.0,0.0,Aurelio 
+Saul ,,Ramon ,Finalizado ,,1.0,1.0,0.0,Eduardo 
+Saul ,,Jose de Jesus ,Finalizado ,,1.0,0.0,0.0,Alan 
+Saul ,,Mugdel Janer Morales,Venta ,,0.0,1.0,0.0,Victor 
+Antonio,,Carlos Alberto Rios,Activo ,,0.0,1.0,0.0,Mauricio 
+Antonio,,Vicente Cortes  ,Finalizado ,,1.0,0.0,0.0,Alan 
+Antonio,,Angel  ,Venta ,,1.0,1.0,1.0,pedro
+Antonio,,Jorge Luis Nunez ,Activo ,,1.0,0.0,0.0,Mauricio 
+Antonio,,Mercy,Finalizado ,,1.0,0.0,0.0,pedro
+Antonio,,Antonio Rodriguez,Activo ,,1.0,0.0,0.0,Alan 
+Antonio,,Juan Colotl  ,Activo ,,0.0,1.0,0.0,Laura
+Antonio,,Samuel Salamanca,Acitvo ,,0.0,0.0,0.0,pedro
+Antonio,,Christoph Vega,Activo ,,0.0,0.0,0.0,Mauricio 
+Saul ,,Jose Campos ,Activo ,,0.0,1.0,0.0,Ricardo 
+Saul ,,Roberto Luis Pacheco,Activo ,,0.0,0.0,0.0,Pedro
+Antonio,,Carlos  Texis  Rodriguez  ,Venta ,,1.0,1.0,1.0,Alan 
+Antonio,,Javier Pazos,Acitvo ,,1.0,1.0,0.0,Eduardo 
+Antonio,,Roberto Portilla,Activo ,,0.0,0.0,0.0,Victor 
+Antonio ,,Julian marin castillo,Activo ,,1.0,0.0,0.0,Aurelio 
+Citas efectivas,,,,,,,,
+Saul ,,13,11,0.0,9.0,,,
+MAYO,,,,,0.0,0.0,0.0,
+Antonio,,Edgar Becerril,Venta,,1.0,1.0,1.0,Ricardo 
+Antonio,,Quetzalli Fernanda,Acitvo ,,1.0,1.0,0.0,Ricardo 
+Saul ,,Antonio ,Finalizado,,1.0,0.0,,Mauricio 
+Saul ,,Estela Hernandez,Finalizado ,,1.0,1.0,0.0,Mauricio 
+Saul ,,Arturo Sanchez ,Finalizado ,,1.0,1.0,0.0,Referido Pablo
+Antonio,,Anselmo Villarreal Rodas,Finalizado,,1.0,1.0,0.0,Eduardo 
+Antonio,,Andres Fernandez Martinez ,Finalizado,,1.0,0.0,0.0,Eduardo 
+Saul ,,Ulises Alejo ,Finalizado ,,1.0,0.0,0.0,Nancy
+Saul ,,Jose alberto ,Finalizado ,,0.0,0.0,0.0,Aurelio 
+Saul ,,Adilene Ruiz,Venta,,1.0,1.0,1.0,Mauricio 
+Saul ,,Gerardo garcia ,Finalizado,,1.0,0.0,,Eduardo 
+Saul ,,Erick Calderón,Finalizado ,,1.0,0.0,0.0,Ricardo 
+Saul ,,Jose Luis,Venta,,1.0,1.0,1.0,Victor 
+Saul ,,Cesar  Aguilar,Venta,,1.0,1.0,1.0,Victor 
+Saul ,,Christian ,Venta,,1.0,0.0,0.0,Aurelio 
+Antonio,,Diego Cabrejiz,Activo,,1.0,0.0,1.0,Nancy
+Antonio,,Sergio Osorno,Acitvo ,,1.0,1.0,0.0,Pedro
+Antonio,,Jossmarr Csm Gil,Activo,,1.0,1.0,0.0,Pedro/Eduardo
+Saul ,,Pedro Bello,Venta,,1.0,1.0,1.0,CASA 
+Antonio,,Herrera Erick/Maria del Carmen,Venta,,1.0,1.0,1.0,Pedro
+Saul ,,David,Acrivo,,1.0,1.0,0.0,Aurelio 
+Antonio,,Lia Vera,Venta,,1.0,1.0,1.0,Victor 
+Antonio,,Francisco Mier,Activo,,1.0,0.0,0.0,Victor 
+Antonio,,Ricardo Pedraza Perez  ,Activo,,1.0,1.0,1.0,Aurelio 
+Antonio/Saul ,,Clementina ,Venta,,1.0,1.0,1.0,Ricardo 
+,,,,,0.0,0.0,0.0,
+JUNIO,,,,,0.0,0.0,0.0,
+Saul ,,Aldo Segura ,Finalizado ,,1.0,1.0,0.0,Ricardo 
+Antonio,,Vladimir,activo,,1.0,0.0,0.0,Pedro
+Antonio ,,Daniel,Acitvo ,,1.0,0.0,0.0,Sergio Raymundo
+Saul,,Francisco Santander ,Finalizado,,1.0,0.0,0.0,Alan
+Saul ,,Dulce Elizabeth ,Activo ,,1.0,1.0,1.0,Pedro
+Saul ,,Fernando ,Venta ,,1.0,1.0,1.0,Alan 
+Antonio,,Sergio Figueroa,Venta ,,1.0,1.0,1.0,Sergio Raymundo
+Antonio,,Osvaldo Peña ,Acitvo ,,1.0,1.0,0.0,Ricardo 
+Saul ,,Aldo Perz ,Activo ,,0.0,0.0,0.0,Mauricio 
+Saul ,,David ,Venta ,,1.0,0.0,1.0,Pedro 
+Saul ,,Manuel Portillo,Finalizado ,,0.0,0.0,0.0,Gerencia 
+Antonio,,Jaime Juarez,Acitvo ,,1.0,1.0,0.0,Mauricio 
+Antonio,,Pedro Jesus  Pestana Castillo ,Acitvo ,,1.0,1.0,0.0,Victor 
+Antonio,,Maximo Fernandez/Fabiana,Venta ,,1.0,1.0,1.0,Pedro 
+Saul ,,Anabell,Venta,,1.0,1.0,1.0,Pedro
+Antonio,,Benjamin/ Element empresa,Venta ,,1.0,1.0,1.0,Alan
+Antonio,,Luis Carlos Gomez ,Activo,,1.0,1.0,0.0,Marcos Coca
+Antonio,,Jesus Morales,Venta ,,1.0,1.0,1.0,Victor
+Saul ,,Rossana ,Finalizado ,,1.0,1.0,0.0,Miguel
+Antonio ,,Parmenides Ortiz,Acitvo ,,1.0,1.0,0.0,Victor
+Antonio,,Miguel Angel,Acitvo ,,1.0,1.0,0.0,Mauricio 
+Saul,,Jose Miguel,Activo,,1.0,0.0,0.0,Mauricio
+Antonio,,Olivia rascon sosa,Acitvo ,,1.0,1.0,1.0,Mauricio
+Antonio,,Mireya Eugenia Ceron,Acitvo ,,1.0,1.0,1.0,Victor
+Antonio,,Arturo Alcantar,Acitvo ,,1.0,1.0,0.0,Aurelio 
+Saul ,,Hugo,Activo ,,0.0,0.0,0.0,Alan 
+,,Julio,,,0.0,0.0,0.0,
+Saul ,,Hugo Martines ,Activo ,,1.0,1.0,,Alan
+Antonio,,Heriberto Solis Perez,Activo,,1.0,1.0,0.0,Victor
+Antonio,,Julio Jimenez,Activo,,1.0,1.0,1.0,Aurelio
+Antonio,,Edgar Corte ,Activo,,0.0,0.0,0.0,Carlos Texis
+Saul ,,Grabiel Zamora ,Activo ,,1.0,1.0,0.0,Mauricio 
+Saul ,,Ivan ,Activo,,0.0,0.0,0.0,Nos vista lunes 7
+Saul,,Anthony,Activo,,1.0,1.0,0.0,Nos visita el sabado 5
+Antonio,,Ernesto Vega,Activo,,1.0,1.0,1.0,Alan Gonzalez
+Saul ,,Hector Cortes ,Activo ,,1.0,0.0,0.0,Alan Gonzalez
+Antonio,,Gabriel,Activo,,1.0,1.0,0.0,Aurelio
+Saul ,,Fausto,Activo ,,1.0,1.0,0.0,Ricardo 
+Antonio,,Javer Moreno,Activo,,0.0,0.0,0.0,Alan
+Saul,,Roberto Paz Rojano ,Activo,,0.0,0.0,0.0,Aurelio 
+Saul ,,Alfonso ,Activo,,0.0,0.0,0.0,Pedro Antonio 
+Antonio,,Antonio/Talia,Acitvo ,,0.0,1.0,1.0,Pedro Antonio 
+Antonio,,Marisol Luna,Acitvo ,,1.0,1.0,0.0,Aurelio 
+Saul ,,Erick ,Finalizado ,,1.0,1.0,0.0,Aurelio 
+Saul,,Karla ,Activo ,,0.0,0.0,0.0,Ignacio 
+Antonio,,Jose Hermenegildo ,Activo,,1.0,1.0,0.0,Pedro Antonio 
+Antonio,,Jossmarr  Csm Gil ,Activo,,1.0,1.0,1.0,Marcos coca
+Saul ,,Guillermina ,Activo ,,1.0,1.0,0.0,Victor 
+Antonio,,Lorenzo Coyotl ,Activo,,1.0,1.0,0.0,Mauricio
+Antonio,,Patricia Rios,Activo,,1.0,0.0,0.0,Pedro Antonio 
+Antonio,,Armando Alvarez Morales,Activo,,1.0,1.0,0.0,Mauricio
+Antonio,,Juan Manuel Infante,Activo,,1.0,1.0,0.0,Marcos coca
+Saul,,Gustavo Rojas Garcia,Activo ,,1.0,1.0,0.0,Victor 
+Saul,,Mauricio Garcia,Activo ,80.0,1.0,1.0,0.0,
+Antonio,,Susana Morales Gutierrez,Activo,,1.0,0.0,0.0,Alan Gonzalez
+Antonio,,Valerio Figueroa,Activo ,,1.0,0.0,0.0,Mauricio
+Antonio,,Sr Martinez,Activo,,1.0,0.0,0.0,Marcos coca
+Antonio,,German Hernandez,Activo,,1.0,0.0,0.0,Ignacio
+Saul ,,Oscar,Activo,,0.0,1.0,0.0,Daniel 
+Antonio,,Alvaro Vega Tobón,Activo,,1.0,1.0,1.0,Pedro
+,,,,,0.0,0.0,0.0,
+Antonio,,Manolin Marin  ,Activo,,1.0,0.0,0.0,Mercedes
+Ana ,,Abraham Fernandez ,Activo,,0.0,0.0,0.0,Mercedes
+Antonio,,Karina Madrid,Activo,,1.0,0.0,0.0,Mercedes
+Antonio,,Iram Sanchez,Activo,,1.0,0.0,0.0,Pedro
+Antonio,,Gilberto,Activo,,1.0,0.0,0.0,Pedro
+Antonio,,Marta Gomez,Activo,,1.0,0.0,0.0,Alan/Pedro
+Ana,,Norma Cruz,Activo,,1.0,0.0,0.0,Ricardo
+Ana,,Ryan Pacheco ,Activo,,1.0,1.0,1.0,Pedro
+Antonio,,Miguel Edgar Ayllon,Activo,,1.0,1.0,0.0,Pedro
+Antonio,,Jesus Ramirez,Activo,,1.0,0.0,0.0,Pedro
+Ana ,,Jose Frein Romero Vega ,Activo,,0.0,0.0,0.0,Alan
+Ana,,Javier Garcia ,Activo,,1.0,0.0,0.0,Mauricio 
+Antonio,,Angelica Tejeda,Activo,,1.0,0.0,0.0,Pedro
+Antonio,,Ariel Macbeth Fierro Lima,Activo,,1.0,0.0,0.0,Mauricio
+Antonio,,Robert Lopez,Activo,,1.0,0.0,0.0,Mauricio
+Antonio,,Eduardo Solis,Activo,,1.0,0.0,0.0,Alan
+Ana,,Margarita Rodriguez,Finalizado,,0.0,0.0,0.0,Alan
+Ana,,Jhonny Frost ,Activo,,1.0,1.0,0.0,Alan
+Ana ,,Obed Garcia ,Activo,,1.0,0.0,0.0,Alan
+Ana ,,Nazario Garcia,Activo,,1.0,0.0,0.0,Aurelio
+Ana,,Edson Jair,Activo,,0.0,0.0,0.0,Victor
+Ana,,Oscar Daniel Cuautli LÃÂÃÂÃ,Activo,,0.0,0.0,0.0,Victor
+Ana,,Ruben Quiroz ,Activo,,1.0,1.0,0.0,Mauricio
+Antonio,,Hipolito Leandro Funes ,Activo,,1.0,0.0,0.0,Mauricio
+Antonio,,Ruben Rafael Lozada ,Activo,,1.0,0.0,0.0,Mauricio
+Ana,,Fabi?n Zaldivar Arres ,Activo ,,1.0,0.0,0.0,Maurico
+Antonio,,Alejandro Sosa,Activo,,0.0,0.0,0.0,Mauricio
+Antonio,,Evangelina Rojas Juarez ,Activo,,1.0,1.0,0.0,Mercedes
+Antonio,,Curro,Activo,,1.0,0.0,0.0,Maurico
+Ana,,Gabino Arrieta ,Activo,,1.0,0.0,0.0,Victor
+Ana,,Aldo Anzures Martinez,Activo,,1.0,0.0,0.0,Ricardo
+Ana ,,antonio pavon garcia,Activo,,0.0,0.0,0.0,Marcos
+Ana ,,Andres Felipe ,Activo,,0.0,0.0,0.0,Marcos
+Antonio,,Elizabeth  Toledo ,Activo,,1.0,0.0,0.0,Marcos
+Antonio,,JUAN ANTONIO CASTELAN SANTIAGO,Activo,,1.0,0.0,0.0,VICTOR
+Antonio,,Luis Angel Ramos,Activo,,1.0,0.0,0.0,Jeamy Custom
+Ana ,,Julia María Navarrete Carreño,Activo ,,1.0,0.0,0.0,Marcos
+Antonio,,Ozair Viveros,Activo,,1.0,0.0,0.0,VICTOR
+Ana,,Yaimy  Guiterrez ,Activo,,0.0,0.0,0.0,VICTOR
+Antonio,,Orlando Delgado ,Activo,,1.0,0.0,0.0,Maurico
+Ana,,Rodrigo.e.jim,Activo,,0.0,0.0,0.0,Ricardo
+Ana,,"Gabriel  Franco , Vazquez",Activo,,0.0,0.0,0.0,Ricardo
+Antonio,,Marisol Luna  Angeles,Activo,,1.0,0.0,0.0,Aurelio
+Antonio,,"Marcos Benjamin Oviedo, Moreno",Activo,,1.0,0.0,0.0,Victor
+Ana,,Fernando Pacheco ,Activo,,0.0,0.0,0.0,Alan
+SEPTIEMBRE,,,,,0.0,0.0,0.0,
+Antonio,,Johann Arevalo Zaragoza,Activo,,1.0,1.0,0.0,Alan
+Ana,,Alejandro Valentin,Activo,,0.0,0.0,0.0,Alan
+Ana,,"Maria  Dolores , Rueda ",Activo,,0.0,0.0,0.0,Ignacio
+Ana,,Nahum Montiel,Activo,,0.0,0.0,0.0,Alan
+Antonio,,Juan,Activo,,1.0,0.0,0.0,Alan
+Antonio,,Comercializadora   Y Distribuidora,Activo,,1.0,1.0,0.0,Alan
+Ana,,Juan Aguilar Moreno ,Activo,,0.0,0.0,0.0,Mercedes
+Ana,,Jorge Luis,Activo,,0.0,0.0,0.0,Mercedes
+Ana ,,Ricardo,Activo,,0.0,0.0,0.0,Mercedes
+Antonio,,Miguel Angel Cuenca Perez,Activo,,1.0,1.0,0.0,Alan
+Ana,,Eloy Perez Gracia,Activo,,1.0,0.0,0.0,Alan
+Antonio,,Oscar Campech,Activo,,1.0,0.0,0.0,Julio Cesar
+Ana,,Levy Carrillo,Activo,,1.0,0.0,0.0,Julio Cesar
+Antonio,,Monserrat Vivar Garcia,Activo,,1.0,0.0,0.0,Aurelio
+Ana,,Erwin Castaneda  ,Activo,,1.0,0.0,0.0,Pedro Antonio
+Ana ,,Adriel Zenteno,Activo,,0.0,0.0,0.0,
+Antonio,,Mary Luz Carrillo Eliosa,,,1.0,0.0,0.0,Marcos
+Ana,,Sergio   Contreras ,Activo,,0.0,0.0,0.0,Maurico
+Antonio,,Alejandro Huerta Fuentes,Activo,,1.0,1.0,0.0,Victor
+Antonio,,Felipe Sanchez/sigmundo,Activo,,1.0,1.0,0.0,Victor
+Antonio,,Salvador Flores,Activo,,1.0,1.0,0.0,Aurelio
+Antonio,,Marco Antonio  Altamirano Conde ,Activo,,1.0,0.0,0.0,Victor
+Ana ,,Josue  Heron  Lopez,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Yoni Maravilla,Activo,,1.0,0.0,0.0,Aurelio
+Antonio,,German Leon Sanchez,Activo,,0.0,0.0,0.0,Alan
+Ana ,,Eddie Fb ,Activo,,0.0,1.0,0.0,Pedro
+Antonio,,ISACHIFT117,Activo,,0.0,1.0,0.0,Marcos
+Antonio,,Gaviota Alvarez,Activo,,0.0,1.0,0.0,Marcos
+Ana,,Carlos Leonel  Bautista  ,Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Marcos  Maldonado ,Activo,,0.0,1.0,0.0,Julio
+Ana,,"Edmon   Abdala ,  ",Activo,,0.0,0.0,0.0,Pedro
+Ana ,,Antelmo Flores Guevara,Activo,,0.0,0.0,0.0,Ignacio
+Ana,,Jose Eduardo Alonso ,Activo,,0.0,1.0,0.0,Aurelio 
+Antonio,,Omar Aguilar Teyssier,Activo,,1.0,1.0,0.0,Pedro
+Ana ,,Sarai Ruiz,Activo,,1.0,1.0,0.0,Pedro
+Ana ,,Jesus Colorado,Activo,,1.0,1.0,0.0,Pedro
+Ana ,,"Juan Manuel Mendoza, Hernandez",Activo,,0.0,1.0,0.0,Julio
+Antonio,,Martha Fernanda Garcia,Activo,,1.0,1.0,0.0,Pedro
+Ana,,Clau,Activo,,0.0,0.0,0.0,Mauricio
+Antonio,,Javier Garcia Amaya,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,"Joaquin Rodrigo Arias, Rios",Activo,,1.0,0.0,0.0,Julio
+Ana ,,Jesus Monreal,Activo,,1.0,1.0,0.0,Mauricio
+Ana,,Carlos Rodriguez Perez Rodr?guez P?rez ,Activo,,1.0,0.0,0.0,Aurelio
+Ana ,,Julio Cesar Vega ,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Ivan Garcia,Activo,,1.0,1.0,0.0,Pedro
+Antonio,,Jose De Jesus  Perez,Activo,,0.0,1.0,0.0,Pedro
+Ana,,Ricardo  Arenas,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,"Miguel  Irigoyen, ",Activo,,0.0,0.0,0.0,Mauricio 
+Antonio,,Rene Angel Bellizzi ,Activo,,0.0,1.0,0.0,Victor
+Ana,,Laura Ivonne Martinez ,Activo,,0.0,1.0,0.0,Pedro
+Ana,,Alejandro Olivares,Activo,,0.0,1.0,0.0,Mercedes
+Antonio,,Felipe  Tepale,Activo,,0.0,1.0,0.0,Ignacio
+Antonio,,Juan Carlos Miguel ,Activo,,0.0,0.0,0.0,Victor
+Ana,,Jesus Manuel  Rios,Activo,,0.0,1.0,0.0,Mauricio 
+Antonio,,Nicolas Contreras,Activo,,0.0,0.0,0.0,Pedro
+ana,,"Jose De Jesus  Perez , ",Activo,,1.0,0.0,0.0,Pedro
+Antonio,,"Jose Miguel  Cosme, Martinez",Activo,,0.0,0.0,0.0,Aurelio
+Ana,,Juan Aguilar Moreno ,Activo,,0.0,1.0,0.0,Mercedes
+Ana,,Adriel Zenteno ,Activo,,0.0,0.0,0.0,Ana
+Antonio,,Jose Eduardo Toriz Bustos ,Activo,,1.0,0.0,0.0,Alan
+Ana,,VANNESSA LIZETTE PEREZ CARRANZA,Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Juan  Lopez Cruz ,Activo,,0.0,0.0,0.0,Ricardo
+Antonio,,NADIA LOPEZ GABRIEL,Activo,,0.0,0.0,1.0,Mauricio
+OCTUBRE,,,,,0.0,0.0,0.0,
+Ana ,,"Sixto Tito  Guzman, Varela",Activo,,1.0,1.0,0.0,Jhosslan
+Antonio,,Rogelio Hernandez,Activo,,1.0,1.0,1.0,Aurelio
+Ana,,Juan Francisco Olvera Alarcon,Ativo,,0.0,1.0,0.0,Ignacio
+Ana,,Gonzalo Chavez,Activo,,0.0,0.0,0.0,Aurelio
+Ana,,Jesus Gilbert  Cano ,Activo,,0.0,0.0,0.0,Aurelio
+Antonio,,Eliseo Huerta,Activo,,1.0,1.0,0.0,Aurelio
+Antonio,,Javier  Reyes,Activo,,0.0,1.0,0.0,Jhosslan
+Ana,,Joaquin Moreno,Activo,,0.0,1.0,0.0,Alan
+Ana ,,Jose  Luis   Salazar  ,Activo,,0.0,0.0,0.0,Victor
+Antonio,,Jose Luis Pelcastre,Activo,,1.0,1.0,0.0,Ignacio
+Antonio,,Jennifer,Activo,,1.0,1.0,0.0,Pedro
+Ana,,Enrique  Enrique  Herrera,Activo,,0.0,0.0,0.0,Julio
+Ana ,,Ivan Emilio,Activo,,0.0,1.0,0.0,Antonio
+Ana,,Jose Abraham Zamora Arenas,Activo,,0.0,1.0,0.0,Ricardo
+Antonio,,Gustavo Rojas Garcia,Activo,,1.0,1.0,0.0,Victor
+Ana ,,Carmen  Ortega ,Activo,,0.0,1.0,0.0,Victor
+Ana,,Raul Delgado,Activo,,1.0,1.0,0.0,Alan
+Antonio,,Adan Fuentes ,Activo,,1.0,1.0,0.0,Pedro
+Ana,,Jose Reyes,Activo,,0.0,0.0,0.0,Pedro
+Antonio,,Humberto Maldonado Garcia,Activo,,1.0,1.0,0.0,Pedro
+Antonio,,Miguel Vasquez San Pablo ,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Carolina Ortega,Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,Alejandro Vivas,Activo,,0.0,0.0,0.0,Aurelio
+Ana ,,Jose Manuel Martinez Rodriguez,Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,Juan mercado González,Activo,,0.0,1.0,0.0,Omar
+Ana,,Martin Magdaleno  Rodriguez ,Activo,,0.0,1.0,0.0,Omar
+Ana,,Christian Capetillo,Activo,,0.0,1.0,1.0,Omar
+Ana,,Jose Manuel Morales Gomez,Activo,,0.0,1.0,0.0,Omar
+Ana ,,Orlando  Cuahutle,Activo,,0.0,1.0,0.0,Julio
+Ana,,Joselin Ramirez  Escobar,Activo,,0.0,1.0,0.0,Alan
+Antonio,,Rafael Davila,Activo,,1.0,0.0,0.0,Alan
+Ana,,Felix Luna Baleon,Activo,,0.0,1.0,0.0,Jhoslan
+Ana,,Luis Munoz ,Activo ,,0.0,1.0,0.0,Mauricio
+Antonio,,Monserrat Torres,Activo,,0.0,1.0,0.0,Omar
+Antonio,,Alberto Acocal ,Activo,,1.0,1.0,0.0,Aurelio
+Ana,,Diego Martinez,Activo,,0.0,0.0,0.0,Aurelio
+Ana,,Cesar Cabrera Ortega ,Activo,,1.0,1.0,0.0,Victor
+Ana,,Diana  Hernandez ,Activo,,0.0,1.0,0.0,Victor
+Ana,,Francisco  Mier ,Activo,,0.0,1.0,0.0,Aurelio
+Ana ,,Margarita Diaz Garcia ,Activo,,1.0,1.0,1.0,Pedro
+Antonio,,Teresa Guadalupe  Guillen Venegas,Activo,,0.0,1.0,1.0,Mauricio
+Antonio,,Adair Lopez,Activo,,1.0,1.0,0.0,Victor
+Ana,,Jairo Samuel  Pineda Velasquez,Activo,,0.0,1.0,0.0,Mauricio
+Ana ,,"Miriam Lizbeth Ruiz, Zamudio",Activo,,0.0,1.0,0.0,Nancy
+Ana,,Imelda  Valencia  Sanchez,Activo,,1.0,1.0,0.0,Victor
+Antonio,,"Luis  Jorge , ",Activo,,0.0,1.0,0.0,Ignacio
+Ana ,,Waldo Pichon ,Activo,,1.0,1.0,0.0,Victor
+Ana,,"Taide Cordoba, Sandoval",Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,"Sandi  Hernandez , ",Activo,,0.0,1.0,0.0,Ignacio
+Ana,,"Adriana  Zarate, Apolinar",Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,Victor  Lorenzana ,Activo,,1.0,1.0,0.0,Mauricio
+Antonio,,"Antonio Ojeda  , ",Activo,,0.0,1.0,0.0,Pedro Antonio
+Ana,,Mario Alberto Medrano Mayo,Activo,,0.0,1.0,0.0,Mauricio
+Antonio,,Antonio De Jesus Lima Hernandez,Activo,,1.0,1.0,0.0,Mauricio
+Ana ,,"Antonio  Lopez, ",Activo,,0.0,1.0,1.0,Marcos
+Antonio,,"Todoro Lopez, ",Activo,,1.0,1.0,0.0,Pedro
+Ana,,"Martin Vazquez  , ",Activo,,0.0,1.0,0.0,Pedro Antonio
+Antonio,,"Israel Chavez  , ",Activo,,0.0,1.0,0.0,Pedro Antonio
+Antonio,,Rocio Lopez Mesa,Activo,,1.0,1.0,0.0,Mauricio
+NOVIEMBRE,,,,,0.0,0.0,0.0,
+Ana,,Alexis  Palestina ,Activo,,0.0,1.0,0.0,Omar
+Ana,,Vanessa  Maza ,Activo,,1.0,1.0,0.0,Alvaro
+Ana,,"Hugo Jorge  , ",Activo,,1.0,1.0,1.0,Pedro Antonio
+Ana,,"David  Torres , Ramirez ",Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Yasmin Galindo ,Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Ricardo  Martinez Tepox ,Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Ari  Valero ,Activo,,0.0,0.0,0.0,Victor
+Ana,,Guadalupe Hernandez ,Activo,,1.0,1.0,0.0,Pedro Antonio
+Ana,,Humberto Calixto,Activo ,,1.0,1.0,0.0,Aurelio
+Antonio,,Isidro Ramos,Activo,,1.0,0.0,0.0,Victor
+Antonio,,Jose Alberto ,Activo,,1.0,0.0,0.0,Victor
+Antonio,,Andrea Hernandez Reyes,Activo,,0.0,1.0,0.0,Pedro Antonio
+Antonio,,Manuel Rodriguez ,Activo,,1.0,0.0,0.0,Alvaro
+Antonio,,José Iván Sánchez Pérez,Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,Octavio Arvea,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Mario Negrete Juarez ,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Juan Gonzales ,Activo,,0.0,1.0,0.0,Alan
+Ana,,Marcial   Sanchez   ,Activo,,0.0,0.0,0.0,Aurelio
+Ana,,Jesus Ivan Ibarra Robles,Activo,,1.0,0.0,0.0,Aurelio
+Ana,,Juan Antonio  Cid  Reynoso  ,Activo,,0.0,1.0,0.0,Victor
+Ana,,Cesar Cabrera Ortega ,Activo,,0.0,1.0,0.0,Victor
+Ana,,Jose De Jesus  Franco Saldana ,Activo,,0.0,0.0,0.0,Ricardo 
+Ana,,Jose C Tecnom ,Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Rene Beguerisse Torres,Activo,,0.0,0.0,0.0,Mauricio
+Antonio,,Jose Ramon Marquez,Activo,,0.0,0.0,0.0,Mauricio
+Antonio,,Ramsey Tecnom,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Jorge Ariza,Activo,,1.0,1.0,0.0,Victor
+Ana,,"Manuel  Vinaz, ",Activo,,1.0,1.0,0.0,Omar
+Antonio,,Efrain Zamudio ,Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,Rivera Castillo,Activo,,1.0,0.0,0.0,Aurelio
+Ana,,Alan Quintero Munive,Activo,,0.0,1.0,0.0,Pedro
+Ana,,Omar Garcia Vazquez,Activo,,0.0,1.0,0.0,Aurelio
+Ana ,,Victor Arrroyo Tecnom,Activo ,,1.0,0.0,0.0,Pedro
+Ana,,Hugo Jirge Regalado Castaneda,Activo,,0.0,0.0,0.0,Pedro Antonio
+Ana,,"Arizbeck  Ortiz, ",Activo,,1.0,0.0,0.0,Aurelio
+Ana,,"David  Torres , Ramirez ",Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Vanessa  Maza ,Activo,,0.0,0.0,1.0,Alvaro
+Antonio,,Hugo Jirge Regalado  Castaneda ,Activo,,0.0,1.0,0.0,Pedro Antonio
+Antonio,,"Jean  Simoni, ",Activo,,0.0,1.0,0.0,Omar
+Antonio,,Gustavo Rojas ,Activo,,0.0,1.0,0.0,Victor
+Ana,,"Rafael  Chocolatl, Cervantes",Activo,,1.0,0.0,0.0,Aurelio
+Ana,,"Dionisio Arce, Martinez",Activo,,0.0,0.0,0.0,Cesar
+Antonio,,Mauel  Ramirez ,Activo ,,0.0,1.0,0.0,Julio Cesar
+Ana,,"Roberto Carlos Parra, Castelan",Activo,,1.0,1.0,0.0,Julio Cesar
+Ana,,Jose Luis Martinez,Activo,,0.0,1.0,0.0,Alan
+Antonio,,"Oscar  Arroyo, ",Activo,,1.0,0.0,0.0,Aurelio
+Antonio,,"Hector Alejandro Gonzalez Tapia  , ",Activo,,0.0,1.0,0.0,Pedro Antonio
+Ana,,Cristian Ocampo ,Activo,,1.0,1.0,0.0,Ignacio
+Ana,,"Gloria Elena  Benavides, ",Activo,,0.0,1.0,0.0,Nancy
+Antonio,,Efrain Zamudio ,Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,Carolina  Ortega ,Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,"Hector Miguel  Fernandez , ",Activo,,1.0,1.0,0.0,Pedro
+DICIEMBRE,,,,,0.0,0.0,0.0,
+Antonio,,Sr. Elvis fb,Activo,,1.0,1.0,0.0,Victor
+Antonio,,Magdaleno,Activo,,0.0,1.0,0.0,Pedro Antonio
+Ana ,,Cerezo Honorato,Activo,,1.0,1.0,0.0,Mauricio
+Ana ,,Laura Garcia,Activo,,1.0,0.0,0.0,Pedro Antonio
+Ana,,Sr. Francisco Cianca,Activo,,0.0,0.0,0.0,Pedro Antonio
+Antonio,,Jose De Jesus Perez Hernandez,Activo,,0.0,0.0,0.0,Ya visito la agencia
+Ana,,Jose Abraham,Activo,,1.0,0.0,0.0,Ricardo
+Ana,,Jose Luis Rojas Aguilar,Activo,,1.0,0.0,0.0,Ignacio
+Ana,,"Sr. Roberto Loeza
+",Activo,,0.0,1.0,0.0,Nancy
+Ana,,Ale Arellano,Activo,,0.0,0.0,0.0,Victor
+Antonio,,Eugenio De Las Heras B,Activo,,0.0,0.0,0.0,Mauricio
+Antonio,,Francisco/Maria del Sol,Activo,,1.0,1.0,0.0,Victor
+Antonio,,Filiberto González Guarneros,Activo,,0.0,1.0,0.0,Omar
+Antonio,,Jose Alberto,Activo,,0.0,1.0,0.0,Mauricio
+Antonio,,Luciano Valdès,Activo,,1.0,1.0,0.0,Victor
+Antonio,,Agustin,Activo,,1.0,1.0,0.0,Aurelio
+Ana,, MIGUEL SANTAMARIA MORALES,Activo,,1.0,0.0,0.0,Cesar 
+Ana,,Jose Luis Guevara,Activo,,0.0,0.0,0.0,Victor
+Ana,,Dario Castillo,Activo,,0.0,0.0,0.0,Victor
+Ana,,Sixto Tito,Activo,,0.0,0.0,0.0,Victor
+Antonio,,Antonio Sanchez,Activo,,1.0,0.0,0.0,Cesar
+Ana ,,Marco Antonio,Activo,8.0,0.0,0.0,0.0,Julio
+Antonio,,Andy,Activo,,1.0,0.0,0.0,Nancy
+Antonio,,Hugo,Activo,,1.0,0.0,0.0,Nancy
+Antonio,,Vicente Acosta,Activo,,1.0,0.0,0.0,Mauricio
+Ana,,Luis Lopez,Activo,,0.0,0.0,0.0,Pedro
+Ana,,Lalo Diaz,Activo,,1.0,1.0,0.0,Victor
+Ana,,Julián García,Activo,,1.0,0.0,0.0,Mauricio
+Antonio,,Rigoberto Salazar,Activo,,0.0,1.0,0.0,Aurelio
+Antonio,,Rodriguez Perslta,Activo,,0.0,0.0,0.0,Aurelio
+Antonio,,Diana Paola Cervantes Márquez,Activo,,0.0,1.0,0.0,Victor
+Antonio,,Mahe Aguilar,Activo,,0.0,1.0,0.0,Mauricio
+Ana ,,Eliut t,Activo,,1.0,0.0,0.0,Julio
+Ana,,Edward T,Activo,,0.0,1.0,0.0,Julio
+Ana ,,Mtro Milton,Activo,,0.0,0.0,0.0,Cesar
+Ana,,"Maria Elena  Sanchez , Perez ",Activo,,1.0,1.0,0.0,Pedro
+Antonio,,Oscar Bautista,Activo,,0.0,0.0,0.0,
+Ana,,Adrian Paadilla,Activo,,1.0,0.0,0.0,Ricardo
+Ana ,,Gregorio Roldan Garcia,Activo,,0.0,0.0,0.0,Aurelio
+Antonio,,Manuel Baltazar,Activo,,0.0,1.0,0.0,Ricardo
+Antonio,,Carlos Mungia,Activo,,0.0,0.0,0.0,Ricardo
+Antonio,,Edith Gonzalez,Activo,,0.0,0.0,0.0,Ricardo
+Antonio,,Guillermo Canto,Activo,,0.0,0.0,0.0,Ricardo
+Antonio,,Gabriel Meza,Activo,,0.0,0.0,0.0,Aurelio
+Antonio,,Jose Miguel,Activo,,0.0,0.0,0.0,Cesar Pestaña
+Antonio,,Carlos Ignacio,Activo,,0.0,0.0,0.0,Victor
+Antonio,,Carlos,Activo,,0.0,0.0,0.0,Aurelio
+2026-01-01 00:00:00,,,,,0.0,0.0,0.0,
+Antonio,,Miguel Ramirez,Activo,,0.0,0.0,0.0,Mauricio
+Antonio,,Marcela Ramírez,Activo,,0.0,0.0,0.0,Pedro
+Antonio,,Rafael Lopez,Activo,,0.0,0.0,0.0,Pedro Antonio
+Antonio,,Irma Juarez,Activo,,0.0,0.0,0.0,Elizabeth
+Ana,,Jimmy T,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Misael  Rodriguez ,Activo,,0.0,0.0,0.0,Ignacio
+Ana,,"Cesar  C ,  ",Activo,,1.0,1.0,1.0,Pedro
+Antonio,,Mireya,Activo,,1.0,1.0,1.0,Victor
+Antonio,,Liliana Alvarez,Activo,,0.0,0.0,0.0,Victor
+Antonio,,Rodrigo P,Activo,,0.0,0.0,0.0,Carlos Mejia/ pachuca
+Antonio,,Alfonso Ibañez Olmos,Activo,,0.0,0.0,0.0,Pedro
+Antonio,,Guillermo Hernandez,Activo,,0.0,0.0,0.0,Nanacy
+Ana,,Roman Aguilar,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,NATANAEL OLVERA San Pablo,Activo,,1.0,1.0,0.0,Victor
+Ana,,Lau T,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Jose Luis Dominguez,Activo,,0.0,0.0,0.0,Aurelio
+Antonio,,Juan FLores,Activo,,0.0,0.0,0.0,Alvaro
+Antonio,,Omar  Cuautle,Activo,,0.0,0.0,0.0,Julio Cesar
+Ana,,Luis Angel l Rojas Lecona,Activo,,0.0,0.0,0.0,Cesar
+Ana,,Joe Carrera,Activo,,0.0,0.0,0.0,Julio Cesar
+Ana,,ana CAROLINA CAMPO,Activo,,1.0,1.0,0.0,Ricardo
+Ana,,Sadrac  Acostha ,Activo,,0.0,0.0,0.0,Pedro
+Ana,,Ricardo,Activo,,0.0,0.0,0.0,Julio
+Antonio,,Alejandra Martinez,Activo,,0.0,0.0,0.0,Alan
+Antonio,,Ericka Huerta Viveros,Activo,,0.0,0.0,0.0,Pedro Antonio
+Antonio,,EDGAR ARCOS,Activo,,0.0,0.0,0.0,Pedro Antonio
+Antonio,,Julio Guzmán,Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Sadrac Acosta,Activo,,0.0,0.0,0.0,Pedro
+Ana,,Darth V,Activo,,0.0,1.0,0.0,Pedro
+Ana,,JUAN VALDEZ,Activo,,1.0,0.0,0.0,Alan
+Ana,,Lidio Sandoval Vazquez,Activo,,0.0,0.0,0.0,
+Antonio,,Julio Cesar,Activo,,0.0,0.0,0.0,Alan
+Ana,,Luis Aldana,Activo,,1.0,0.0,0.0,Carlos Mejia
+Ana,,CARLOS ERNESTO PAREDES,Activo,,1.0,0.0,0.0,Julio
+Ana,,Demetrio  Zamara,Activo,,1.0,1.0,0.0,Mauricio
+Ana,,Roberto De Jesus Lopez,Activo,,0.0,0.0,0.0,Alan
+2026-02-01 00:00:00,,,,,0.0,0.0,0.0,
+Antonio,,Sergio Cebada,Activo,,1.0,0.0,0.0,Pedro Antonio
+Antonio,,Orlando Peralta,Activo,,1.0,0.0,0.0,Pedro Antonio
+Antonio,,jose angel varela,Activo,,1.0,0.0,0.0,Mauricio
+Antonio,,ANA MARIA NIETO,Activo,,0.0,1.0,0.0,Pedro
+Antonio,,Nitzel Zempoaltecatl,Activo,,0.0,0.0,0.0,Cesar Pestaña
+Antonio,,Sergio ortega,Activo,,1.0,1.0,1.0,Aurelio
+Antonio,,Ramón Antonio,Activo,,1.0,1.0,1.0,Pedro
+Antonio,,Cuautemoc Paramo Prado,Activo,,1.0,0.0,0.0,Victor
+Ana,,Josafat Cuapio,Activo,,0.0,1.0,0.0,
+Ana,,Gilberto Fr,Activo,,0.0,0.0,0.0,Carlos Hernandez
+Ana,,Sergio Gonzalez,Activo,,0.0,0.0,0.0,Carlos Mejia
+Ana,,Adolfo Aguilar,Activo,,0.0,0.0,0.0,Victor
+Ana,,Antonio De Jesús Lima Hernández,Activo,,0.0,1.0,0.0,Mauricio
+Antonio,,Cesar M,Activo,,1.0,0.0,0.0,Alvaro
+Ana,,Martín Vázquez,,,0.0,0.0,0.0,Victor
+Ana,,Pimentel Eleuterio,,,0.0,0.0,0.0,Cesar Pestaña
+Antonio,,Frida T,Activo,,1.0,1.0,0.0,Alan
+Ana,,Alicia Avila,Activo,,0.0,0.0,0.0,Julio
+Ana,,Carlos Lozano Ramos,Activo,,1.0,0.0,0.0,Julio 
+Ana,,MA ELENA ISABEL LEAN BURGOS-,Activo ,,1.0,1.0,0.0,AURELIO
+Antonio,,Miguel Galindo Aburto,Activo,,0.0,0.0,0.0,Alan
+Antonio,,Omar Reyes,Activo,,1.0,0.0,0.0,Julio
+Antonio,,Fernando Tellez,Activo,,0.0,0.0,0.0,Carlos Hdz
+Antonio,,Rey Hernandez,Antonio,,0.0,0.0,0.0,Victor
+Ana,,Bety Herrera,Activo,,0.0,0.0,0.0,Carlos Hdz
+Ana,,Miguel Grande,Activo,,1.0,0.0,0.0,
+Ana,,Israel Hernández Pérez,Activo ,,0.0,0.0,0.0,
+Ana,,JOSE LUIS LOYA,Activo,,1.0,0.0,0.0,Victor
+Ana,,Brian Michel Villegas,Activo,,1.0,0.0,0.0,Alan
+Ana,,Hugo Velazquez,Activo,,0.0,0.0,0.0,Mauricio
+Antonio,,Karen,Activo,,1.0,0.0,0.0,Carlos Hdz
+2026-03-01 00:00:00,,,,,0.0,0.0,0.0,
+Antonio,,Rene Osorno,Activo,,1.0,0.0,0.0,Alvaro
+Antonio,,Jose Carlos Hernandez,Activo,,1.0,0.0,0.0,Victor
+Ana,,Oscar Ezpinoza,Activo ,,1.0,0.0,0.0,Pedro Gonzalez
+Antonio,,Cesar Chavez,Activo,,1.0,0.0,0.0,Aurelio
+Ana,,Miguel Angel Ramirez Avalos,Activo,,1.0,0.0,0.0,Aurelio
+Antonio,,Ana Paola,Activo ,,1.0,1.0,1.0,Mauricio
+Ana,,Jack Joaquín Sabina Zárate Juárez,Activo,,1.0,0.0,0.0,Mauricio 
+Ana,,Adrian Cristobal,Activo ,,0.0,1.0,0.0,
+Antonio,,PRE HOGAR,Activo,,1.0,0.0,1.0,Mauricio
+Antonio,,Maura Gonzalez,Activo ,,1.0,0.0,0.0,Alan
+Antonio,,Carlos Nava,Activo ,,1.0,0.0,0.0,Julio Cesar
+Ana,,Luis arturo chora lara,Activo ,,1.0,0.0,0.0,Julio Cesar
+Ana,,Jose Isidro,Activo ,,1.0,0.0,0.0,Julio Cesar
+Antonio,,Sergio,Activio,,0.0,0.0,0.0,Mauricio
+Antonio,,Athalia,Activo ,,0.0,0.0,1.0,Cesar Pestaña
+Antonio,,Alfonso Ramirez,Activo,,1.0,0.0,0.0,Pedro Gonzalez
+2026-04-01 00:00:00,,,,,0.0,0.0,0.0,
+Antonio,,Carlos León,Activo ,,0.0,0.0,0.0,Pedro Gonzalez
+Ana,,Jesus P,Activo,,0.0,0.0,0.0,Carlos Mejia
+Ana,,JUAN DE DIOS NAVARRETE MENDEZ,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Anyvia Jazmín Cruz Mendoza,Activo,,0.0,0.0,0.0,Carlos Mejia
+Antonio,,Christofer,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Simon Vega Aquiahuatl,Activo,,0.0,1.0,0.0,Vanny
+Ana,,HECTOR JIMÉNEZ ALDAY,Activo,,1.0,0.0,0.0,Mauricio
+Ana,,Jhonathan Bravo,Activo,,1.0,0.0,0.0,Maurico
+Ana,,Cristobal,Activo,,1.0,0.0,0.0,Mauricio
+Antonio,,MARÍA DEL CARMEN GRADOS,Activo,,0.0,0.0,0.0,Aurelio
+Antonio,,Alejandro Cruz Adabache,Activo,,0.0,0.0,0.0,Alvaro
+Antonio,,Juan José castellon,Activo,,0.0,0.0,0.0,Ivan
+Antonio,,Dianarely Marquez,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Dr Julio Cesar,Activo,,0.0,0.0,0.0,Vanny
+Ana,,David Omar Damián González,Activo,80.0,0.0,0.0,0.0,Victor
+Ana,,Arturo Delgado García,Activo,,0.0,0.0,0.0,Victor
+Ana ,,Mario Moreno,Activo,,0.0,0.0,0.0,Pedro
+Ana,,Victor Luciano Huerta Acosta Huerta,Activo,,0.0,0.0,0.0,Pedro
+Ana,,Roberto Aguilar,Activo,,0.0,0.0,0.0,Julio 
+Ana,,Rulo Vera,Activo,,1.0,0.0,0.0,Nayeli
+Ana,,Rafael Cázares,Activo,,0.0,0.0,0.0,Julio
+Ignacio ,,Antonio Escalona ,Activo ,,1.0,1.0,0.0,Pedro Gonzalez 
+Ignacio ,,Martin Ortuño ,Activo ,,0.0,0.0,0.0,Mauricio 
+Ignacio ,,Salvador Jasso ,Activo ,,1.0,0.0,0.0,Mauricio 
+Ignacio ,,Luis Pelcastre ,Activo,,0.0,0.0,0.0,Mauricio 
+Ignacio ,,Santa Garcia ,Activo,,1.0,1.0,0.0,Carlos Hernandez 
+Ignacio ,,Gamaliel Vega ,Activo,,1.0,1.0,1.0,Pedro 
+Ana,,Victor Hugo Narvaez,Activo,,0.0,0.0,0.0,Mauricio 
+Ana,,EDGAR SILES,Activo,,0.0,0.0,0.0,Julio
+Ana,,JAIRO ROJAS,Activo,,0.0,0.0,0.0,Pedro 
+Ana,,Carlos Perez,Activo,,0.0,0.0,0.0,Pedro
+Ana,,Arnold perales,Activo,,0.0,0.0,0.0,Carlos Mejia
+Ana ,,Said Azpeitia Blanco,Activo-,,0.0,0.0,0.0,Mauricio 
+Ignacio ,,Ricardo Gutierrez,Activo-,,1.0,0.0,1.0,Mauricio 
+Ignacio ,,Jorge de gante,Activo-,,1.0,1.0,0.0,Pedro 
+Ignacio ,,Javier Aguilar ,Activo-,,0.0,0.0,0.0,Pedro 
+Ignacio ,,Marco Antonio Valencia ,Activo-,,1.0,1.0,0.0,Mauricio 
+Igancio ,,Rocio Cortes ,Activo-,,1.0,0.0,0.0,Mauricio 
+Ana ,,Armando Uribe Torres,Activo,,1.0,0.0,0.0,Carlos Mejia
+Ignacio ,,Elias Dias Salgado ,Activo ,,1.0,1.0,0.0,Mauricio 
+Ana,,andres Domínguez,Activo,,1.0,0.0,0.0,Fatima
+Ana,,Rafael Sanchez,Activo,,1.0,0.0,0.0,Mauricio
+Ana ,,Carlos Herrera,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Daniel Morales Hernández,Activo,,1.0,0.0,0.0,Julio Cesar
+Ana,,Jehu Rodriguez,Activo,,1.0,0.0,0.0,Mauricio
+Ignacio ,,Juan Pablo Castellanos ,Activo,,0.0,0.0,0.0,Victor Sanchez 
+Ana,,Pablo Archundia López,Activo,,1.0,0.0,0.0,Mauricio
+,,JOSE LUIS,Activo,,0.0,0.0,0.0,Mauricio
+,,Alejandro Tapia Rueda,Activo,,0.0,0.0,0.0,Carlos
+,,Angel Perez,Activo,,0.0,0.0,0.0,Vanny
+,,Julio Lopez,Activo,,1.0,0.0,0.0,Pedro Gonzalez
+,,Miguel Antonio Fernandez,Activo,,0.0,0.0,0.0,Nayeli
+,,Alejandro Sanchez,Activo,,0.0,0.0,0.0,Julio Cesar
+,,Cesar Palafox,Activo,,0.0,0.0,0.0,Vanny
+,,HUGO BADILLO,Activo,,0.0,0.0,0.0,Alvaro
+,,,,,0.0,0.0,0.0,
+,,,,,0.0,0.0,0.0,
+,,,,,0.0,0.0,0.0,
+,,,,,0.0,0.0,0.0,
+,,,,,0.0,0.0,0.0,
+2026-05-01 00:00:00,,,,,0.0,0.0,0.0,
+Ignacio ,,Alan Guerrero ,Activo,,1.0,0.0,0.0,Mauricio 
+Ignacio ,,Larrisa Oidor ,,,0.0,1.0,0.0,Mauricio 
+Ignacio ,,Jorge Duran ,Activo ,,0.0,0.0,0.0,Pedro 
+Ignacio ,,Hector Reyes ,,,1.0,1.0,0.0,Pedro 
+Ana ,,Leo Rodríguez,Activo,,0.0,0.0,0.0,Mauricio
+Ana,,Neftali Lima Sanchez,Activo,,0.0,0.0,0.0,Julio
+Igancio ,,Alhdair Bonifacio Ramos ,Activo ,,0.0,0.0,0.0,Victor 
+Igancio ,,Gary Hernandez ,Activo ,,0.0,0.0,0.0,Vanny 
+Ana,,Edgar Alejandro,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Celestino Olivares Flores,Activo,,1.0,1.0,0.0,Pedro
+Ana,,Margarita Martìnez Mirand,Activo,,0.0,1.0,0.0,Mauricio
+Ana,,Armando Uribe Torres-,Activo,,0.0,0.0,0.0,Fatima
+Ana,,Jose F,Activo,,1.0,0.0,0.0,Julio
+Ana,,Jesus Flores sanchez,Activo,,1.0,0.0,0.0,Pedrp
+Ana,,JOSE IGNACIO,Activo,,1.0,0.0,0.0,Aurelio
+Ignacio ,,Fernando Duran ,Activo,,0.0,0.0,0.0,Pedro 
+Ignacio ,,Guillermo Benavides ,activo,,1.0,1.0,0.0,Pedro 
+Ignacio ,,Hugo Franco ,activo,,1.0,0.0,0.0,Aurelio
+Ignacio ,,Luis Enrique Palomares ,Activo,,0.0,0.0,0.0,Aurelio 
+Ana ,,Edgar Alejandro,Activo,,1.0,1.0,0.0,Aurelio
+Ana,,Eduardo Apodaca Espinosa,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Marco xs,Activo,,1.0,0.0,0.0,Julio
+Ana,,JOSE SANCHEZ,Activo,,0.0,1.0,0.0,Aurelio
+Ana ,,Roberto Garcia ,Activo,,0.0,1.0,0.0,Pedro
+Ana,,Gustavo Melendez,Activo,,0.0,1.0,0.0,Aurelio
+Ignacio ,,Ruben Lopez ,Activo,,1.0,1.0,0.0,Mario 
+Ignacio ,,Jaime trejo ,Activo ,,1.0,1.0,0.0,Pedro 
+Igancio ,,Alma Sanchez ,Activo ,,0.0,0.0,0.0,Pedro 
+Ignacio ,,Carlos Cervantes ,Activo ,,0.0,0.0,0.0,Mauricio 
+Ignacio ,,Santa Garcia ,Activo ,,1.0,1.0,1.0,Carlos 
+Ignacio ,,Raul Miranda ,Activo ,,0.0,1.0,1.0,Mauricio 
+Ana ,,Juan Manuel Hernández,Activo,,1.0,0.0,0.0,Fatima
+Ana,,Ramon Castro Vite,Activo,,1.0,1.0,0.0,Fatima
+Ana,,Ernesto Pachuca,Activo,,0.0,1.0,0.0,Carlos Mejia
+Ana,,Adalyn montiel morales,Activo,,1.0,0.0,0.0,Pedro
+Ana,,EVERT VALVERDE JIMENEZ,Activo,,1.0,0.0,0.0,Mario
+Ana,,Benjamin Sanchez,Activo,,1.0,1.0,0.0,Aurelio
+Ana,,Quiroz Daniel,Activo,,1.0,0.0,0.0,Mauricio
+Ignacio ,,Armando Briones ,Activo ,,0.0,1.0,0.0,Pedro 
+Ana,,Salomon Sanchyez,,,0.0,0.0,0.0,Vanny
+Ana,,Adriana F,Activo,,1.0,0.0,0.0,Carlos Mejia
+Ana,,Angel Romo,,,1.0,0.0,0.0,Vanny
+Ignacio ,,Juan Carlos Carreto ,,,0.0,1.0,0.0,pedro 
+Ignacio ,,Alberto SR,,,0.0,1.0,0.0,Pedro 
+Ana,,Sebastian F,,,1.0,0.0,0.0,Pedro
+Ana,,Jorge G,,,1.0,1.0,0.0,Victor
+Ignacio ,,Fernando Zárate ,Activo ,,1.0,1.0,0.0,Victor 
+Igancio ,,Karla Marquez ,Activo ,,0.0,0.0,0.0,Pedro 
+Ana,,ansony f,Activo,,1.0,0.0,0.0,Aurelio
+Ana,,Jorge A Quiroz,Activo,,1.0,0.0,0.0,Pedro
+Ignacio ,,Michel Taja ,Activo ,,0.0,0.0,0.0,Aurelio 
+Ignacio ,,Jairo Rodriguez ,Activo ,,0.0,0.0,0.0,Victro 
+Ignacio ,,Arturo Lopez ,Activo ,,0.0,0.0,0.0,Pedro
+Ignacio ,,Yolanda Castellanos ,Activo ,,0.0,1.0,1.0,Victor 
+Ana ,,Juan Roque,Activo ,,1.0,1.0,0.0,Aurelio
+Igancio ,,Maria guadalupe Serrano ,Activo ,,0.0,0.0,1.0,Victor 
+Ana,,MARCO ANTONIO CHARTUNI,Activo,,0.0,1.0,0.0,Aurelio
+Ana,,Alexey ,Activo ,,1.0,1.0,0.0,Ana
+Ana,,Brenda Lucero,Activo ,,1.0,1.0,0.0,VICTOR
+2026-06-01 00:00:00,,,,,0.0,0.0,0.0,
+Ignacio ,2026-06-01,Francisco Cacho ,Activo ,,0.0,0.0,0.0,Mario 
+Ignacio ,2026-06-01,Guillermo Hernandez ,Activo ,,1.0,0.0,0.0,Pedro Antonio 
+Ignacio ,2026-06-02,Roberto Quintana ,Activo ,,0.0,0.0,0.0,Nayeli 
+Ignacio ,2026-06-03,Karla Marquez ,Activo ,,0.0,0.0,1.0,Pedro
+Ana ,2026-06-01,Javier Juarez Solano,Activo,,1.0,0.0,0.0,Vanny
+Ana,2026-06-03,Ommar Herrera,Activo,,1.0,0.0,0.0,Carlos mejia
+Ana,2026-06-04,Andres Cuevas,Activo,,0.0,0.0,0.0,Carlos Mejia 
+Ana,2026-06-05,Fernanda Lopez,Activo,,1.0,1.0,0.0,Ignacio 
+Ana,2026-06-02,Jose,Activo,,0.0,0.0,0.0,Llamada
+Ignacio,2026-06-06,Gregorio Tlapanco ,Activo ,,0.0,0.0,0.0,Mario Varela
+Ignacio ,2026-06-12,Ivan Bravo ,Activo ,,1.0,1.0,1.0,Mario Varela 
+Ignacio ,2026-06-12,Angelica Briones ,Activo ,,0.0,0.0,0.0,Julio Cesar 
+Ignacio ,2026-06-12,Juan Alberto Vargas ,Activo ,,1.0,0.0,0.0,Mario Varela 
+Ana,2026-06-17,Moises ,Activo,,1.0,0.0,0.0,Aurelio
+Ana,2026-06-10,LUIS CASTILLO,Activo,,0.0,0.0,0.0,Fer
+Ana,2026-06-12,Eder Hernandez,Activo,,0.0,0.0,0.0,Fatima
+Ana,2026-06-13,Alberto Madrigal,Activo,,0.0,0.0,0.0,Pedro Antonio
+Ana,2026-06-06,Jesus Adelfo Hernandez Montiel,Activo,,0.0,0.0,0.0,Julio Cesar
+Ana,2026-06-16,Eduardo Delón Páez,Activo,,1.0,0.0,0.0,Nayeli
+Ana,2026-06-10,LUIS FERNANDO SANCHEZ QUIROZ,Activo,,1.0,0.0,0.0,Mario
+Ana,2026-06-05,Ommar Herrera,Activo,,1.0,0.0,0.0,Carlos Mejia
+Ana,2026-06-06,Jaime Davila Baez,Activo,,1.0,0.0,0.0,Pedro
+Ana,2026-06-19,Jan cx,Activo,,0.0,0.0,0.0,Carlos Mejia 
+Ana,2026-06-16,BERNARDO ALCARAZ MORALES,Activo,,1.0,0.0,0.0,Nayeli
+Ana,2026-06-07,Juan Carlos García Hernández,Activo,,1.0,0.0,0.0,Carlos Mejia
+Ana,2026-06-15,Benjamin Mendez,Activo ,,1.0,0.0,0.0,Vanny
+Ana,2026-06-06,Jesus F,Activo,,0.0,0.0,0.0,Fer F
+Ana,2026-06-28,Sergio Flores,Activo,,0.0,0.0,0.0,Fatima
+Ana,2026-06-28,Sofia polo,Activo,,0.0,0.0,0.0,Vanny
+Ignacio ,2026-06-29,Jorge Canche ,Activo ,,0.0,0.0,0.0,Ignacio 
+Igancio ,2026-06-28,Octavio Perez ,Activo ,,0.0,1.0,0.0,Pedro Antonio 
+Ignacio ,2026-06-28,Adelina Khalikova ,Activo ,,1.0,0.0,0.0,Pedro Antonio 
+Ignacio ,2026-06-27,Roberto Luna Rosas ,Activo ,,1.0,0.0,1.0,Pedro Antonio 
+Ignacio ,2026-06-19,Miguel Martinez ,Activo ,,1.0,0.0,0.0,Nayeli 
+Ignacio ,2026-06-20,Humberto Valencia ,Activo ,,0.0,0.0,0.0,Aurelio 
+Ignacio ,2026-06-19,Propescto Orizaba ,Activo ,,0.0,0.0,0.0,Nayeli 
+Ana ,2026-06-24,Paul Kehrli,Activo,,0.0,0.0,0.0,Pedro Antonio
+Ana ,2026-06-15,Benjamin Mendez,Activo ,,0.0,0.0,0.0,Vanny
+Ana,2026-06-06,Reynaldo Cobos ,Activo,,1.0,0.0,0.0,Ulises
+Ana,2026-06-20,Arturo Moreno ,Activo,,0.0,0.0,0.0,Nayeli
+Ana,2026-06-17,Moises Hdez,Activo,,0.0,0.0,0.0,Aurelio
+2027-07-01 00:00:00,,,,,0.0,0.0,0.0,
+Ignacio ,2026-06-04,Arquimedes Rugerio ,Activo ,,1.0,0.0,0.0,Nayeli 
+Ignacio ,2026-06-04,Victor Manuel Diaz Ortiz ,Activo ,,1.0,0.0,0.0,Cesar Pestaña
+Ana,2026-06-02,Margarita Romero Castillo,Activo ,,1.0,1.0,0.0,Pedro Antonio
+Ana,2026-07-07,Eder Chavez,Activo ,,1.0,0.0,0.0,Fatima
+Ana,2026-07-07,Alejandro VELAZQUEZ,Activo ,,1.0,1.0,0.0,Nayeli
+Ana,2026-07-11,Miguel irigoyen,Activo ,,0.0,0.0,0.0,Julio
+Ana,2026-07-08,Jose Hernandez Gonzalez,Activo ,,1.0,1.0,0.0,Pedro 
+Ignacio ,2026-07-09,Oswaldo Rueda ,Activo ,,1.0,1.0,0.0,Pedro 
+Ignacio ,2026-07-10,Arturo Mendez ,Activo ,,1.0,0.0,0.0,Mauricio 
+Ana,2026-07-08,Ruben Vargas,Acrivo,,1.0,1.0,0.0,Julio
+Ana ,2026-07-04,Edgar Herrera,Activo,,1.0,0.0,0.0,Fatima
+Igancio ,2026-07-14,luis Hernandez,Activo ,,1.0,0.0,0.0,Nayeli 
+Ignacio ,2026-07-14,Omar Garcia ,Activo ,,1.0,0.0,0.0,Nayeli 
+Ignacio ,2026-07-13,Rosaura Mendez Quechol ,Activo ,,0.0,0.0,1.0,Mauricio 
+Ana,2026-07-14,Alfonso f,Activo,,1.0,0.0,0.0,Nayeli
+Ana,2026-07-10,Lizbeth Garcia,Activo,,1.0,0.0,0.0,Julio
+Ana ,2026-07-11,Mike Mora,Activo,,0.0,1.0,0.0,Alfredo
+Ana,2026-07-14,Azucena de Jesus machorro arreola,Activo,,1.0,1.0,0.0,Nayeli
+Ana,2026-07-13,Jose F,Activo,,0.0,0.0,0.0,
+Ana,2026-07-16,Daniel Padilla,Activo,,1.0,1.0,0.0,Fernanda
+Ana,2025-07-16,Juan Carazo Juan Carazo,Activo,,0.0,0.0,0.0,Pedro
+Ana,2026-07-16,MARIBEL BARRON,Activo,,1.0,0.0,0.0,Mario
+Igancio ,2026-07-17,Bernardo Ayuso ,,,0.0,0.0,0.0,Nayeli 
+Ignacio ,2026-07-16,Victor Garcai ,,,0.0,0.0,0.0,Alfredo 
+Ignacio ,2026-07-18,Johancarlo Islas ,Activo ,,0.0,0.0,0.0,Julio Cesar 
+Ana,2026-07-16,Margaret Silva Serrano,Activo,,1.0,0.0,0.0,Nayeli
+Ignacio ,2026-07-21,Carlos Balderrama ,Activo ,,1.0,1.0,1.0,Mario Varela 
+Ignacio ,2026-07-21,Andrés Netzahuatl ,Activo ,,0.0,0.0,0.0,Mauricio 
+Ana,2026-07-22,Arat Israel,Activo,80.0,1.0,1.0,0.0,Aurelio
+Ana,2026-07-22,Maira Escalante,Activo ,,1.0,1.0,0.0,Pedro Antonio
+Ignacio ,2026-07-22,Zaira Macip ,Activo ,,0.0,0.0,0.0,Aurelio 
